@@ -1,0 +1,9 @@
+streamlit
+plotly
+matplotlib
+scikit-learn
+nltk
+arxiv
+txt
+wordcloud
+requests
