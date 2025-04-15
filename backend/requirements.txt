@@ -1,0 +1,12 @@
+fastapi
+uvicorn
+requests
+beautifulsoup4
+selenium
+newspaper3k
+pandas
+numpy
+transformers
+sentence-transformers
+faiss-cpu
+txt
